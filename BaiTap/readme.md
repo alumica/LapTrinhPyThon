@@ -1,4 +1,4 @@
-<h1 align="center">Material Bread</h1>
+<h1 align="center">Bài tập</h1>
 
 * Tính tổng n số nguyên đầu tiên
 * In danh sách các sô chẵn thuộc (0, n]
